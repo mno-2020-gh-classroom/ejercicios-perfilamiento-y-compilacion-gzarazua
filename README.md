@@ -5,7 +5,7 @@ ejercicios de perfilamiento y compilación en Python y R
 
 2. Invitar a sus integrantes de su equipo al **repo privado**. 
 
-3. Perfilen la regla de Simpson con Python y R con las herramientas vistas en [1.6.Perfilamiento_Python](1.6.Perfilamiento_Python) y [1.6.Perfilamiento_R.ipynb](1.6.Perfilamiento_R.ipynb). 
+3. Perfilen la regla de Simpson con Python y R con las herramientas vistas en [1.6.Perfilamiento_Python.ipynb](1.6.Perfilamiento_Python.ipynb) y [1.6.Perfilamiento_R.ipynb](1.6.Perfilamiento_R.ipynb). 
 
 4. Elijan sólo una nota entre [1.7.Compilar_a_C_Cython.ipynb](1.7.Compilar_a_C_Cython.ipynb) y [1.7.Reescribir_funciones_a_C++_Rcpp.ipynb](1.7.Reescribir_funciones_a_C++_Rcpp.ipynb) para resolver los ejercicios pedidos en cada nota.
 
