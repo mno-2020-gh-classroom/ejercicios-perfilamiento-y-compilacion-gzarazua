@@ -1,6 +1,8 @@
 # 4-ej-perfilamiento-compilacion
 ejercicios de perfilamiento y compilación en Python y R
 
+**Se entrega el 11 de marzo**
+
 1. Misma persona `Admin` que aceptó invitación a la tarea de github classroom pasada debe aceptar la invitación a esta tarea. Recuerden que sólo una persona integrante de cada equipo debe aceptar.
 
 2. Invitar a sus integrantes de su equipo al **repo privado**. 
