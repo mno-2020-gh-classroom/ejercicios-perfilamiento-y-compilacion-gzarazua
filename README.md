@@ -15,8 +15,8 @@ Aprovechen lo utilizado en las tareas anteriores para usar botones de binder si 
 
 
 
-BOTÓN PARA NOTAS 1.4
+BOTÓN jupyterlab_r_kernel_binder:1.1.0
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama1?urlpath=lab)
 
-BOTÓN PARA NOTAS 1.5
+BOTÓN jupyterlab_numerical_binder_test:1.1.0
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama2?urlpath=lab) 
